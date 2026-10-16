@@ -1,147 +1,103 @@
 
-<!--
-  GitHub Profile README
-  Isaac Pérez | isaac-perez-code
--->
-
 <div align="center">
 
-# Hey, I'm Isaac Pérez 👋
+# Isaac Pérez
 
-### Software Engineering Student | AI & Software Development
+### Software Engineering Student · AI Enthusiast
 
-Building useful software, exploring AI, and turning ideas into real projects.
+*Turning ideas into software, one project at a time.*
 
-<p>
-  <a href="https://github.com/isaac-perez-code">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-2563EB?style=for-the-badge" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Interest-Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-perez-code)
+![Location](https://img.shields.io/badge/Peru-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami`
 
 I'm a Software Engineering student specializing in Artificial Intelligence at **SENATI, Peru**.
 
-I enjoy developing applications that combine functionality, clean architecture, and thoughtful user interfaces. I learn by building projects, solving problems, and exploring technologies beyond the classroom.
+I enjoy building applications, designing clean interfaces, and exploring how software engineering and AI can solve real-world problems.
 
-- 🎓 Studying Software Engineering with AI.
-- 💻 Developing web applications and software projects.
-- 🧠 Exploring artificial intelligence and machine learning.
-- 🎨 Interested in UI/UX, responsive design, and user experience.
-- 🗄️ Learning about databases, APIs, and backend architecture.
-- 🚀 Always working to improve my programming skills.
-
-> My goal is to turn ideas into reliable, useful, and well-designed software.
+- 🎓 Software Engineering with AI
+- 💻 Web and mobile application development
+- 🧠 Exploring Artificial Intelligence and Machine Learning
+- 🛠️ Learning through hands-on projects and experimentation
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
-### Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css,js" alt="Programming technologies" />
-</p>
+### Languages
 
-### Frameworks, Databases & Tools
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,php" alt="Java, Kotlin, Python, JavaScript, HTML, CSS and PHP" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,php,mysql,postgres,git,github,idea,androidstudio,vscode" alt="Frameworks and development tools" />
-</p>
+### Frameworks & Databases
 
-**Areas I'm exploring**
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres" alt="Spring, MySQL and PostgreSQL" />
 
-- Object-Oriented Programming (OOP)
-- Frontend and backend development
-- REST APIs and database integration
-- MVC and layered application architecture
-- Machine Learning and Artificial Intelligence
-- Responsive interfaces and UI/UX design
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma" alt="Git, GitHub, VS Code, IntelliJ IDEA, Android Studio and Figma" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 🎬 IsaacFilm — Movie & Streaming Platform
+### 🎬 IsaacFilm
+A streaming-inspired platform focused on movie discovery and a modern cinematic interface.
 
-A streaming-inspired project focused on movie discovery and a modern viewing experience.
-
-- Dark, cinematic user interface.
-- Movie search and information through the TMDB API.
-- Focus on frontend design and application architecture.
-
-**Technologies:** JavaScript, web technologies, TMDB API.
+- Movie search and information using the TMDB API
+- Dark UI and streaming-inspired design
+- Focus on application structure and user experience
 
 ### 🏫 Next Level School
+An academic management project for an educational institution.
 
-An academic management project designed around the needs of an educational institution.
-
-- Institutional login interface.
-- Academic management and reporting concepts.
-- Focus on usability, visual consistency, and responsive design.
-
-**Technologies:** Web development, databases, UI/UX.
+- Interface design for academic workflows
+- Database-driven features
+- Focus on usability and visual consistency
 
 ### 🦷 Elite Dental
+A web application project for dental clinic workflows.
 
-A dental clinic software project focused on organizing information and supporting administrative workflows.
-
-- Patient and appointment management.
-- Clinical records and diagnostic information.
-- Database-driven application development.
-
-**Technologies:** PHP, MySQL, web development.
-
-> Project descriptions summarize my development work. Check each repository for its actual implementation, setup instructions, and current status.
+- Patient and appointment management
+- Clinical records and diagnostic information
+- PHP and MySQL development
 
 ---
 
-## 📊 GitHub Overview
+## Currently Exploring
+
+- Android development with Kotlin
+- Object-oriented programming and software architecture
+- Backend development and REST APIs
+- Artificial Intelligence and Machine Learning
+- Better development practices and maintainable code
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isaac-perez-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=isaac-perez-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-perez-code&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-perez-code&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=isaac-perez-code&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
 ---
-
-## 🌱 Currently Learning
-
-- 📱 Android application development with Kotlin.
-- ☕ Java and object-oriented software design.
-- 🌐 Backend development, APIs, and database integration.
-- 🤖 Artificial Intelligence and Machine Learning.
-- 🧩 Software architecture and maintainable code.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in learning from other developers, collaborating on meaningful projects, and discovering opportunities to grow as a software developer.
-
-<p align="center">
-  <a href="https://github.com/isaac-perez-code">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" />
-  </a>
-</p>
 
 <div align="center">
 
-*Building today. Improving every day.* 🚀
+**Always learning. Always building.**
+
+[GitHub Profile](https://github.com/isaac-perez-code)
 
 </div>
