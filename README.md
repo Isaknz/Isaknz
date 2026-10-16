@@ -6,7 +6,7 @@
   <br><br>
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EE7FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Software+Engineering+Student;Machine+Learning+%7C+Web+Development;Aprendo+construyendo." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EE7FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Isaac;Software+Engineering+Student;Machine+Learning+%7C+Web+Development;Aprendo+construyendo." alt="Typing SVG">
 
   <br><br>
 
@@ -70,7 +70,8 @@ Me gusta aprender construyendo proyectos relacionados con:
 <tr>
 <td width="50%">
 
-### 📩 Ingresos y Egresos de Colegio Académico
+### 📩 Next Level School
+Ingresos y Egresos de Colegio Académico
 
 
 <a href="https://github.com/Isaknz/NEXT_LEVEL.git">
