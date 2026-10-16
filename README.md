@@ -1,25 +1,22 @@
 <div align="center">
 
-<img src="./github-banner.gif" width="100%" alt="Banner de Fred Isaac">
+  <!-- Banner -->
+  <img src="./github-banner.gif" width="100%" alt="Banner de Isaac">
 
-<br><br>
+  <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EE7FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Software+Engineering+Student;Machine+Learning+%7C+Web+Development;Aprendo+construyendo." alt="Typing SVG">
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EE7FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Software+Engineering+Student;Machine+Learning+%7C+Web+Development;Aprendo+construyendo." alt="Typing SVG">
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/Isaknz">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p align="left">
+  <!-- Redes sociales -->
   <a href="https://github.com/Isaknz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://tiktok.com/@isa_acnxx">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-</p>
-<p align="left">
   <a href="https://youtube.com/@issc_nxz">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
@@ -29,11 +26,13 @@
   <a href="https://www.facebook.com/profile.php?id=100088112583941">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
 
-<a href="mailto:isaacperezas@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B">
-</a>
+  <br><br>
+
+  <!-- Email -->
+  <a href="mailto:isaacperezas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email" />
+  </a>
 
 </div>
 
