@@ -8,13 +8,13 @@
 
 <br><br>
 
-<a href="https://github.com/[TU_USUARIO]">
+<a href="https://github.com/Isaknz">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="[TU_LINKEDIN]">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5EE7FF">
 </a>
-<a href="mailto:[TU_CORREO]">
+<a href="mailto:isaacperezas@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B">
 </a>
 
@@ -28,11 +28,11 @@ Soy estudiante de **Ingeniería de Software** interesado en crear soluciones cla
 
 Me gusta aprender construyendo proyectos relacionados con:
 
-- Machine Learning
-- Desarrollo web
-- Automatización
-- Análisis de problemas
-- Diseño de soluciones tecnológicas
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)
+![Web Development](https://img.shields.io/badge/-Web%20Development-2C3E50?style=flat&logo=html5&logoColor=white)
+![Automatización](https://img.shields.io/badge/-Automatización-2C3E50?style=for-the-badge&logo=robotframework&logoColor=white)
+![Análisis de problemas](https://img.shields.io/badge/-Análisis%20de%20problemas-2C3E50?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Diseño de soluciones](https://img.shields.io/badge/-Diseño%20de%20soluciones-2C3E50?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 > `Ideas → Code → Impact`
 
@@ -42,7 +42,7 @@ Me gusta aprender construyendo proyectos relacionados con:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,flask,git,github,vscode&theme=dark" alt="Tecnologías">
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,flask,git,github,vscode,laravel,arduino,js,mysql&theme=dark" alt="Tecnologías">
 
 </div>
 
@@ -54,11 +54,10 @@ Me gusta aprender construyendo proyectos relacionados con:
 <tr>
 <td width="50%">
 
-### 📩 Detector de spam
+### 📩 Ingresos y Egresos de Colegio Académico
 
-Clasificador de mensajes utilizando **Naive Bayes**, Python y scikit-learn, integrado con Flask.
 
-<a href="[LINK_REPOSITORIO_SPAM]">
+<a href="https://github.com/Isaknz/NEXT_LEVEL.git">
 <img src="https://img.shields.io/badge/Ver_proyecto-5EE7FF?style=flat-square&logo=github&logoColor=0D1117">
 </a>
 
@@ -66,11 +65,11 @@ Clasificador de mensajes utilizando **Naive Bayes**, Python y scikit-learn, inte
 
 <td width="50%">
 
-### ⚡ ISO 50001
+### ⚡ Streaming
 
-Proyecto académico enfocado en la gestión y mejora del uso eficiente de la energía.
+Proyecto académico enfocado en la gestión de peliculas y series.
 
-<a href="[LINK_REPOSITORIO_ISO_50001]">
+<a href="https://github.com/Isaknz/streamingfilm.git">
 <img src="https://img.shields.io/badge/Ver_proyecto-B97AFF?style=flat-square&logo=github&logoColor=0D1117">
 </a>
 
@@ -80,11 +79,11 @@ Proyecto académico enfocado en la gestión y mejora del uso eficiente de la ene
 <tr>
 <td width="50%">
 
-### ✅ ISO 9001
+### ✅ Elite Dental
 
-Proyecto académico relacionado con la gestión de calidad y la mejora continua.
+Proyecto académico relacionado con la gestión de pacientes de una clínica dental.
 
-<a href="[LINK_REPOSITORIO_ISO_9001]">
+<a href="https://github.com/Isaknz/ELITEDENTAL.git">
 <img src="https://img.shields.io/badge/Ver_proyecto-5EE7FF?style=flat-square&logo=github&logoColor=0D1117">
 </a>
 
@@ -109,6 +108,3 @@ Machine Learning       ███████████████░░░
 Desarrollo web         █████████████░░░░░
 Arquitectura           ███████████░░░░░░░
 Ingeniería de software ██████████████░░░░
-
-while(alive) { learn(); build(); improve(); }
-Aprender. Construir. Mejorar.
