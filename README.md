@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <mp4 src="./banner_isknxz.mp4" width="100%" alt="Banner de Isaac">
+  <img src="./banner_isaknz.gif" width="100%" alt="Banner de Isaac">
 
   <br><br>
 
