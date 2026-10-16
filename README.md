@@ -1,103 +1,211 @@
+<!--
 
-<div align="center">
+# Bienvenido a mi GITHUB 👋
 
-# Isaac Pérez
+-->
 
-### Software Engineering Student · AI Enthusiast
+<!--
 
-*Turning ideas into software, one project at a time.*
+>>>>>>> a930d72024ebb667d8fc709e90084b585f0861da
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-perez-code)
-![Location](https://img.shields.io/badge/Peru-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF)
+<!--**robertoBCV/robertoBCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-</div>
+Here are some ideas to get you started:
 
----
 
-## `whoami`
 
-I'm a Software Engineering student specializing in Artificial Intelligence at **SENATI, Peru**.
+- 🔭 I’m currently working on ...<br>
 
-I enjoy building applications, designing clean interfaces, and exploring how software engineering and AI can solve real-world problems.
+- 🌱 I’m currently learning ...
 
-- 🎓 Software Engineering with AI
-- 💻 Web and mobile application development
-- 🧠 Exploring Artificial Intelligence and Machine Learning
-- 🛠️ Learning through hands-on projects and experimentation
+- 👯 I’m looking to collaborate on ...
 
----
+- 🤔 I’m looking for help with ...
 
-## Tech Stack
+- 💬 Ask me about ...
 
-<div align="center">
+- 📫 How to reach me: ...
 
-### Languages
+- 😄 Pronouns: ....
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,php" alt="Java, Kotlin, Python, JavaScript, HTML, CSS and PHP" />
+- ⚡ Fun fact: ...
 
-### Frameworks & Databases
+-->
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres" alt="Spring, MySQL and PostgreSQL" />
 
-### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma" alt="Git, GitHub, VS Code, IntelliJ IDEA, Android Studio and Figma" />
+<div id="header" align="center">
+
+ <h1>Bienvenido a mi GITHUB 👋</h1>
 
 </div>
 
----
 
-## Selected Projects
 
-### 🎬 IsaacFilm
-A streaming-inspired platform focused on movie discovery and a modern cinematic interface.
+![banner](github-banner.png)
 
-- Movie search and information using the TMDB API
-- Dark UI and streaming-inspired design
-- Focus on application structure and user experience
+<div id="header" align="center">
 
-### 🏫 Next Level School
-An academic management project for an educational institution.
+ <h2>Lenguajes de programación</h2>
 
-- Interface design for academic workflows
-- Database-driven features
-- Focus on usability and visual consistency
 
-### 🦷 Elite Dental
-A web application project for dental clinic workflows.
 
-- Patient and appointment management
-- Clinical records and diagnostic information
-- PHP and MySQL development
+<table align="center">
 
----
+ <tr>
 
-## Currently Exploring
+  <td align="center">
 
-- Android development with Kotlin
-- Object-oriented programming and software architecture
-- Backend development and REST APIs
-- Artificial Intelligence and Machine Learning
-- Better development practices and maintainable code
+   <a href="https://git-scm.com/">
 
----
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 
-## GitHub Activity
+   </a>
 
-<div align="center">
+  </td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isaac-perez-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <td align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-perez-code&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+   <a href="https://www.oracle.com/java/">
+
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+
+   </a>
+
+  </td>
+
+  <td align="center">
+
+   <a href="https://kotlinlang.org/">
+
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+
+   </a>
+
+  </td>
+
+  <td align="center">
+
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+
+   </a>
+
+  </td>
+
+  <td align="center">
+
+   <a href="https://www.php.net/">
+
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+
+   </a>
+
+  </td>
+
+  <td align="center">
+
+   <a href="https://www.python.org/">
+
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+
+   </a>
+
+  </td>
+
+  <td align="center">
+
+   <a href="https://developer.apple.com/swift/">
+
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
+
+   </a>
+
+  </td>
+
+ </tr>
+
+</table>
+
+ 
+
+ <!-- gifphy-->
+
+ </p>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200"/>
 
 </div>
 
----
 
-<div align="center">
 
-**Always learning. Always building.**
 
-[GitHub Profile](https://github.com/isaac-perez-code)
+
+
+
+<!-- Redes Sociales-->
+
+<div id="header" align="center">
+
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+ <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+
+ <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+
+ <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
+
+ <img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+
+</div>
+
+
+
+<div id="header" align="center">
+
+ <h2>Editores de código</h2>
+
+ <p align="center">
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
+
+  </a>
+
+ </p>
+
+</div>
+
+
+
+<div id="header" align="center">
+
+ <h2>Lenguajes de maketado
+
+ <p align="center">
+
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
+
+ </a>
+
+ </p>
+
+</div>
+
+   
+
+<div id="header" align="center">
+
+ <h2>IoT<br></h2>
+
+  <p align="center">
+
+  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
+
+  </a>
+
+ </p>
 
 </div>
