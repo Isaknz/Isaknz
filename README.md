@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="./github-banner.gif" width="100%" alt="Banner de Isaac">
+  <img src="./bajo_luna.png" width="100%" alt="Banner de Isaac">
 
   <br><br>
 
