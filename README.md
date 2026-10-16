@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-<img src="https://i.imgur.com/https://res.cloudinary.com/ns3w1yby/video/upload/v1792185304/isaknz_banner.mp4" width="100%" alt="Banner de Isaac">
+<video src="https://i.imgur.com/https://res.cloudinary.com/ns3w1yby/video/upload/v1792185304/isaknz_banner.mp4" width="100%" alt="Banner de Isaac">
 
   <br><br>
 
