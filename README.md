@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Banner -->
-<img src="./banner_banner.gif" width="100%" alt="Banner de Isaac">
   <br><br>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EE7FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Isaac;Software+Engineering+Student;Machine+Learning+%7C+Web+Development;Aprendo+construyendo." alt="Typing SVG">
 
   <br><br>
+    <!-- Banner -->
+<img src="./banner_banner.gif" width="100%" alt="Banner de Isaac">
 
   <!-- Redes sociales -->
   <a href="https://github.com/Isaknz">
