@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-<img src="./banner_sbanner.gif" width="100%" alt="Banner de Isaac">
+<img src="./banner_banner.gif" width="100%" alt="Banner de Isaac">
   <br><br>
 
   <!-- Typing SVG -->
