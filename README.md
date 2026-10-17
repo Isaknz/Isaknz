@@ -125,15 +125,9 @@ Nuevos proyectos, experimentos y soluciones en construcción.
 
 <div align="center">
 
-  <img src="https://progress-bar.dev/60/?title=Ingeniería%20de%20Software&width=300&color=5EE7FF" alt="Ingeniería de Software" /><br><br>
-  <img src="https://progress-bar.dev/65/?title=Arquitectura&width=300&color=B97AFF" alt="Arquitectura" /><br><br>
-  <img src="https://progress-bar.dev/55/?title=Machine%20Learning&width=300&color=01D277" alt="Machine Learning" /><br><br>
-  <img src="https://progress-bar.dev/75/?title=Desarrollo%20Web&width=300&color=2C3E50" alt="Desarrollo Web" />
+  <img src="https://progress-bar.xyz/60/?title=Ingeniería%20de%20Software&width=300&color=5EE7FF" alt="Ingeniería de Software" /><br><br>
+  <img src="https://progress-bar.xyz/65/?title=Arquitectura&width=300&color=B97AFF" alt="Arquitectura" /><br><br>
+  <img src="https://progress-bar.xyz/55/?title=Machine%20Learning&width=300&color=01D277" alt="Machine Learning" /><br><br>
+  <img src="https://progress-bar.xyz/75/?title=Desarrollo%20Web&width=300&color=2C3E50" alt="Desarrollo Web" />
 
-</div>
-
-<br>
-
-<div align="center">
-  <i>⭐ ¡Gracias por visitar mi perfil! ⭐</i>
 </div>
